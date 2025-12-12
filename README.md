@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer, specializing in building scalable backend applications, web applications and mobile applications.
+I'm a software engineer, specializing in building scalable backend, web and mobile applications.
 
 🛠  Tech Stack
 
